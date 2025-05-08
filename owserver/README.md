@@ -43,17 +43,17 @@ Please check the **[full documentation page](https://github.com/strike56/hassio-
 
 ## Screenshots
 
-![Integration setup 1](https://github.com/lrybak/hassio-owserver/raw/master/images/screenshot_setup1.png)
-![Integration setup 2](https://github.com/lrybak/hassio-owserver/raw/master/images/screenshot_setup2.png)
-![Integration setup 3](https://github.com/lrybak/hassio-owserver/raw/master/images/screenshot_setup3.jpg)
-![Integrations page](https://github.com/lrybak/hassio-owserver/raw/master/images/screenshot_integrations.jpg)
-![owhttpd](https://github.com/lrybak/hassio-owserver/raw/master/images/screenshot_owhttpd.jpg)
+![Integration setup 1](https://github.com/strike56/hassio-owserver/raw/master/images/screenshot_setup1.png)
+![Integration setup 2](https://github.com/strike56/hassio-owserver/raw/master/images/screenshot_setup2.png)
+![Integration setup 3](https://github.com/strike56/hassio-owserver/raw/master/images/screenshot_setup3.jpg)
+![Integrations page](https://github.com/strike56/hassio-owserver/raw/master/images/screenshot_integrations.jpg)
+![owhttpd](https://github.com/strike56/hassio-owserver/raw/master/images/screenshot_owhttpd.jpg)
 
-[version]: https://img.shields.io/badge/version-v0.6.1-blue.svg
-[releases]: https://github.com/lrybak/hassio-owserver/releases
-[addons-repository]: https://github.com/lrybak/addon-repository
-[addons-repository-beta]: https://github.com/lrybak/addon-repository-beta
-[addons-repository-edge]: https://github.com/lrybak/addon-repository-edge
+[version]: https://img.shields.io/badge/version-v0.6.2-blue.svg
+[releases]: https://github.com/strike56/hassio-owserver/releases
+[addons-repository]: https://github.com/strike56/addon-repository
+[addons-repository-beta]: https://github.com/strike56/addon-repository-beta
+[addons-repository-edge]: https://github.com/strike56/addon-repository-edge
 
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
