@@ -4,4 +4,4 @@ addons:
   owserver:
     repository: strike56/hassio-owserver
     target: .
-    image: ghcr.io/lrybak/owserver/{arch}
+    image: ghcr.io/strike56/owserver/{arch}
