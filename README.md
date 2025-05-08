@@ -11,7 +11,7 @@ a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/lrybak/addon-repository
+https://github.com/strike56/addon-repository
 ```
 
 ## Add-ons provided by this repository
