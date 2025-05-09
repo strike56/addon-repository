@@ -49,7 +49,7 @@ Please check the **[full documentation page](https://github.com/strike56/hassio-
 ![Integrations page](https://github.com/strike56/hassio-owserver/raw/master/images/screenshot_integrations.jpg)
 ![owhttpd](https://github.com/strike56/hassio-owserver/raw/master/images/screenshot_owhttpd.jpg)
 
-[version]: https://img.shields.io/badge/version-v0.6.2-blue.svg
+[version]: https://img.shields.io/badge/version-v0.6.3-blue.svg
 [releases]: https://github.com/strike56/hassio-owserver/releases
 [addons-repository]: https://github.com/strike56/addon-repository
 [addons-repository-beta]: https://github.com/strike56/addon-repository-beta
